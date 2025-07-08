@@ -1,5 +1,5 @@
 # Telegram Auto-Reply
-This is a smart, AI-powered Telegram auto-reply script that mimics natural human behavior. It uses your personal Telegram account (not a bot) and responds like a real person — casually, with pauses, typing simulations, emojis, and memory of previous users.
+This is a smart, AI-powered Telegram auto-reply script that mimics natural human behavior. It uses your personal **Telegram account (not a bot)** and responds like a real person — casually, with pauses, typing simulations, emojis, and memory of previous users.
 # 💬 Built with:
 
   ✅ Telethon – for Telegram API access  
