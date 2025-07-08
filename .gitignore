@@ -1,0 +1,6 @@
+__pycache__/
+seen_users.json
+.env
+*.log
+*.sqlite
+*.pyc
