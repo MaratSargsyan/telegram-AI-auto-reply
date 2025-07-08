@@ -1,4 +1,4 @@
-![Telegram AI Auto Reply]([https://img.shields.io/badge/telegram-auto--reply-blue](https://github.com/MaratSargsyan/telegram-AI-auto-reply))
+![Telegram AI Auto Reply]([https://github.com/MaratSargsyan/telegram-AI-auto-reply])
 
 # 🤖 Telegram AI Auto Reply Using OpenAI (Personal Account, No Bot Needed)
 
