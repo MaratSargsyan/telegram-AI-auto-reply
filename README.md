@@ -2,9 +2,9 @@
 This is a smart, AI-powered Telegram auto-reply script that mimics natural human behavior. It uses your personal Telegram account (not a bot) and responds like a real person — casually, with pauses, typing simulations, emojis, and memory of previous users.
 # 💬 Built with:
 
-  Telethon – for Telegram API access  
-  OpenAI API – for generating intelligent, human-like replies  
-  Python + asyncio + local memory (seen_users.json)  
+  ✅ Telethon – for Telegram API access  
+  🔑 OpenAI API – for generating intelligent, human-like replies  
+  🐍 Python + asyncio + local memory (seen_users.json)  
 # ⚙️ Features:
 
   Reads messages after a delay, just like a person  
@@ -23,7 +23,7 @@ Before you begin, make sure you have:
 - 📦 pip (Python package manager)  
  # Installing:
 
- ###🔁 Clone This Repository
+ ### 🔁 Clone This Repository
 
 ## ✅ What You’ll Need First
 ### 🔹 1. Telegram API Credentials (API ID & API Hash)  
@@ -52,6 +52,11 @@ Download Python (version 3.10+ recommended)
 ### 🔧 4: Install Required Libraries
 Open your terminal (or PowerShell) and run:  
 <pre><code>pip install telethon openai</code></pre>
+
+### 🏃 Run
+<pre><code>python Telegram_auto_reply.py</code></pre>
+or  
+<pre><code>py Telegram_auto_reply.py</code></pre>
 
 
 
