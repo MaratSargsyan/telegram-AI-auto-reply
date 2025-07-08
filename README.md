@@ -33,12 +33,12 @@ Log in with your phone number.
 Click API Development Tools  
 
 ### Fill in:
-App title: ReplyAI
-Short name: replyai
+App title: ReplyAI  
+Short name: replyai  
 
 ### Copy:
-API ID
-API Hash
+API ID  
+API Hash  
 
 ### 🔑 2. OpenAI API Key
 Go to: https://platform.openai.com/account/api-keys  
@@ -51,7 +51,7 @@ Download Python (version 3.10+ recommended)
 
 ### 🔧 4: Install Required Libraries
 Open your terminal (or PowerShell) and run:  
-<pre> ```pip install telethon openai``` </pre>
+<pre><code>```pip install telethon openai```</code></pre>
 
 
 
