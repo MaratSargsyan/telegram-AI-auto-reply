@@ -51,7 +51,7 @@ Download Python (version 3.10+ recommended)
 
 ### 🔧 4: Install Required Libraries
 Open your terminal (or PowerShell) and run:  
-<pre><code>```pip install telethon openai```</code></pre>
+<pre><code>pip install telethon openai</code></pre>
 
 
 
