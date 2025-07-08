@@ -54,10 +54,10 @@ Open your terminal (or PowerShell) and run:
 <pre><code>pip install telethon openai</code></pre>
 
 ### 🐍 5. Python code changes
-**Add your**  
-Your API ID  
-Your API HASH  
-Your OpenAI API KEY  
+**Open Telegram_auto_reply.py and Add your**  
+API ID  
+API HASH  
+OpenAI API KEY  
 
 ### 🏃 Run
 <pre><code>python Telegram_auto_reply.py</code></pre>
