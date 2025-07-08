@@ -1,4 +1,4 @@
-![Telegram AI Auto Reply](https://img.shields.io/badge/telegram-auto--reply-blue)
+![Telegram AI Auto Reply]([https://img.shields.io/badge/telegram-auto--reply-blue](https://github.com/MaratSargsyan/telegram-AI-auto-reply))
 
 # 🤖 Telegram AI Auto Reply Using OpenAI (Personal Account, No Bot Needed)
 
@@ -28,8 +28,8 @@ Before you begin, make sure you have:
 
  ### 🔁 Clone This Repository
 
-## ✅ What You’ll Need First
-### 🔹 1. Telegram API Credentials (API ID & API Hash)  
+## What You’ll Need First
+### ✅ 1. Telegram API Credentials (API ID & API Hash)  
 Go to: https://my.telegram.org  
 Log in with your phone number.  
 
