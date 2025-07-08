@@ -11,7 +11,7 @@ import os
 # === Your credentials ===
 api_id = Your API ID #Your API ID
 api_hash = 'Your API HASH' #Your API HASH
-openai_api_key = 'YOUR OPENAI API KEY' #YOUR OPENAI API KEY
+openai_api_key = 'Your OpenAI API KEY' #YOUR OPENAI API KEY
 session_name = 'ai_session'
 
 # OpenAI client
